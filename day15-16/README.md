@@ -1,6 +1,6 @@
 # WDI19 part 3
 
-I read about the *tiny-YOLO* model and generate a full dataset for training my variation of it.
+I read about the *tiny-YOLO* model and generate a full dataset for training my variation of it. Finally, I started coding stuff for this workshop.
 
 ## References
 
